@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shereiffgarrett@yahoo.com**
 
-- ⚡ Fun fact **I make LoFi music on my spare time**
+- ⚡ Fun fact **I make LoFi music in my spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
