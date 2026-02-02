@@ -108,25 +108,7 @@ End-to-end deep learning pipeline for multi-class image classification using **R
 **Technical Stack:**  
 Python • PyTorch • PyTorch Lightning • Torchvision • NumPy • Matplotlib • Seaborn
 
----
 
-### ✅ Correctly Classified CIFAR-10 Samples
-
-<p align="center">
-  <img src="./images/correctlyclassified.png" alt="Correctly Classified CIFAR-10 Samples" width="800">
-</p>
-
-
-
----
-
-### 📊 Normalized Confusion Matrix
-
-<p align="center">
-  <img src="./images/First20epochsmtx.png" alt="Normalized Confusion Matrix" width="800">
-</p>
-
----
 
 ### 🔍 Research Takeaways
 - Transfer learning improves convergence and class-level accuracy
