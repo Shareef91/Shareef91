@@ -113,15 +113,17 @@ Python • PyTorch • PyTorch Lightning • Torchvision • NumPy • Matplotli
 ### ✅ Correctly Classified CIFAR-10 Samples
 
 <p align="center">
-  <img src=""C:\Users\ganam\OneDrive\Desktop\GithubProject3\Cifar-10 project ic\images\correctlyclassified.png"" width="800"/>
+  <img src="./images/correctlyclassified.png" alt="Correctly Classified CIFAR-10 Samples" width="800">
 </p>
+
+
 
 ---
 
 ### 📊 Normalized Confusion Matrix
 
 <p align="center">
-  <img src="images/First20epochsmtx.png" width="800"/>
+  <img src="./images/First20epochsmtx.png" alt="Normalized Confusion Matrix" width="800">
 </p>
 
 ---
